@@ -2,7 +2,7 @@
 
 Откройте терминал в директории, где находятся ваши файлы (Dockerfile, streamlit_app.py, requirements.txt, final_gradient_boosting_model.pkl, scaler.pkl, start.sh) и выполните следующую команду:
 
-```
+```sh
 docker build -t credit-status-app .
 ```
 docker build: Команда для сборки образа Docker.  
