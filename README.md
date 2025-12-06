@@ -5,9 +5,10 @@
 ```
 docker build -t credit-status-app .
 ```
-docker build: Команда для сборки образа Docker.
--t credit-status-app: Присваивает имя (credit-status-app) и тег (по умолчанию latest) вашему образу.
-.: Указывает, что Dockerfile находится в текущей директории.
+docker build: Команда для сборки образа Docker.  
+-t credit-status-app: Присваивает имя (credit-status-app) и тег (по умолчанию latest) вашему образу.  
+.: Указывает, что Dockerfile находится в текущей директории.  
+
 Шаг 2: Запуск Docker контейнера
 
 После успешной сборки образа вы можете запустить контейнер:
