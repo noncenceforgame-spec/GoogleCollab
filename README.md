@@ -33,10 +33,10 @@ apt upgrade
 apt install docker.io
 ```
 
-** Минигайд**
-из папки /app забираем файлы Dockerfile, streamlit_app.py, requirements.txt, final_gradient_boosting_model.pkl, scaler.pkl, start.sh
-с помощью WinSCP загружаем на свой сервер (в отдельную папку... желательно)
-далее
+** Минигайд**  
+из папки /app забираем файлы Dockerfile, streamlit_app.py, requirements.txt, final_gradient_boosting_model.pkl, scaler.pkl, start.sh  
+с помощью WinSCP загружаем на свой сервер (в отдельную папку... желательно)  
+далее  
 ```sh
 cd название папки
 ```
