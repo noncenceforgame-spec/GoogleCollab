@@ -1,4 +1,4 @@
-Шаг 1: Сборка Docker образа
+**Шаг 1: Сборка Docker образа**
 
 Откройте терминал в директории, где находятся ваши файлы (Dockerfile, streamlit_app.py, requirements.txt, final_gradient_boosting_model.pkl, scaler.pkl, start.sh) и выполните следующую команду:
 
