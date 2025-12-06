@@ -23,9 +23,15 @@
 Ubuntu 24.04
 
 **Предварительно**
+```sh
 apt update
+```
+```sh
 apt upgrade
+```
+```sh
 apt install docker.io
+```
 
 **Сборка Docker образа**
 
